@@ -95,7 +95,7 @@ fun AddBookScreen() {
         }
     }
 }
-
+// Förhandsvisar AddBookScreen i Android Studio med en synlig bakgrund.
 @Preview(showBackground = true)
 @Composable
 fun AddBookScreenPreview() {
